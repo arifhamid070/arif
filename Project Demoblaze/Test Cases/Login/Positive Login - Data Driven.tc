@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Positive Login - Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>452acfd9-42cd-4bc0-956b-69614c6fc6c6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>94fa9661-df1e-4e3a-a2df-197ecbe5dfcb</id>
+      <masked>false</masked>
+      <name>Username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>31d33da8-49c0-48c9-b863-f91d1e00a667</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>
